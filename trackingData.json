@@ -15,14 +15,14 @@
   },
 
   "UPS4492039933": {
-    "status": "Arrived at Ups Facility - USA",
+    "status": "Arrived at Ups Facility - Hungary",
     "currentStage": 1,
     "stages": [
-      "Package received at UPS facility - USA",
-      "Package processed — Madrid, Spain",
+      "Package received at UPS facility - Uk",
+      "Package processed — Uk, London",
       "Departed from origin facility",
       "In transit to destination",
-      "Arrived at UPS facility - USA",
+      "Arrived at UPS facility - Hungary",
       "Out for delivery",
       "Delivery attempt",
       "Delivered successfully"
